@@ -1,4 +1,4 @@
-# ISTANBUL-TECHNICAL-UNIVERSITY-ITU-ZES-Solar-Car-Team-Weekly-Assignment
+# ITU-Solar-Car-Team-Weekly-Assignment
 Mislina
 ITU Solar Car Team – Weekly Assignment
 
