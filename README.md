@@ -1,14 +1,40 @@
-# ITU-Solar-Car-Team-Weekly-Assignment
-Mislina
-ITU Solar Car Team – Weekly Assignment
+# ITU Solar Car Team – Weekly Software Assignments
 
-This repository contains the weekly software assignments conducted within the Istanbul Technical University Solar Car Team. The aim of these studies is to learn fundamental software concepts through the C++ programming language, improve algorithmic thinking skills, and build a basic software infrastructure that can be used in team projects.
+This repository contains weekly software assignments conducted within the Istanbul Technical University Solar Car Team.
 
-The repository includes examples related to C++ fundamentals, basic applications, and small-scale simulations. These studies cover topics such as variables, conditional statements, loops, functions, and struct usage. In addition, a simple calculator application, point structure examples, and a basic simulation based on robot dead reckoning are also included.
+The primary goal of these assignments is to:
+- Learn fundamental software concepts using **C++**
+- Improve algorithmic thinking and problem-solving skills
+- Build a basic software infrastructure applicable to team projects
 
-This project was developed for learning and practice purposes, to support individual development and to provide a foundation for software-related work within the Solar Car Team.
+## 📚 Content
 
-Developer:
-Mislina Feyza Özkan
-Istanbul Technical University
-Solar Car Team – Autonomous Systems
+The repository includes examples and small-scale applications related to:
+
+- C++ fundamentals
+- Variables and data types
+- Conditional statements
+- Loops
+- Functions
+- Struct usage
+
+Additionally, the following applications are included:
+- Simple calculator application
+- Point structure examples
+- Basic robot dead reckoning simulation
+
+## 🎯 Purpose
+
+This project was developed for **learning and practice purposes**.  
+It aims to support individual development and provide a foundation for future software-related work within the ITU Solar Car Team, especially in autonomous systems.
+
+## 🛠 Technologies
+
+- **Programming Language:** C++
+- **Focus:** Algorithms, basic simulations, software fundamentals
+
+## 👤 Developer
+
+**Mislina Feyza Özkan**  
+Istanbul Technical University  
+ITU Solar Car Team – Autonomous Systems
